@@ -54,9 +54,13 @@
   z-index: 2;
 }
 
-.header__link {
+.link {
   color: #2f80ed;
+  text-decoration: none;
 } 
+
+.header__link {
+}
 
 .header__square-pic {
   position: absolute;
@@ -147,6 +151,8 @@
   margin: auto;
   list-style: none;
   padding: 0;
+
+
 }
 
 .table__cell {
@@ -184,6 +190,76 @@
 }
 
 .digits__section-subtitle {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}
+
+/* блок feyman */
+
+.feynman {
+  position: relative;
+  height: 100vh;
+  min-height: 600px;
+  max-height: 756px;
+  background-color: #f2f2f2;
+  background-image: url(../images/feynman.png);
+  background-size: 867px 637px;
+  background-position: bottom left;
+  background-repeat: no-repeat;
+  border: red 1px solid;
+  z-index: -1;
+  /* padding-top: 100px; */
+}
+
+.feynman__title {
+  text-align: center;
+  margin: 100px auto 70px;
+  width: 648px;
+  line-height: 1.15;
+  font-size: 120px;
+  font-weight: 600;
+}
+
+.feynman__subtitle {
+  text-align: center;
+  margin: 0 auto;
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+}
+
+.feynman__link {
+  position: absolute;
+  top: 50%;
+  right: 48px;
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+}
+
+.kaufman {
+  background-color: #1f1f1f;
+  padding-top: 90px;
+}
+.section-title_theme_dark {
+ background-color: #1f1f1f;
+ color: white;
+}
+
+/* можно объединить */
+.kaufman__section-title {
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: 600;
+}
+
+.section-subtitle_theme_dark {
+  background-color:  #1f1f1f;
+  color: white;
+}
+
+.kaufman__section-subtitle {
   line-height: 34px;
   font-size: 24px;
   font-weight: normal;
