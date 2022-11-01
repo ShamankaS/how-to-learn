@@ -63,7 +63,7 @@
 } 
 
 .header__square-pic {
-  position: absolute;  
+  position: absolute;
   top: 64px;
   right: 0;
   width: 568px;
@@ -148,7 +148,7 @@
 }
 
 .table {
-  display: flex; 
+  display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
   margin: auto;
