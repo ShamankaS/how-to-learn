@@ -37,7 +37,7 @@
 }
 
 .header__title {
-  margin: 0 0 0 64px;
+  margin: 0 0 0 64px;  
   width: 730px;
   line-height: 96px;
   font-size: 102px;
@@ -172,7 +172,7 @@
 
 .table__text {
   margin: 0 0 20px;
-  padding: 0 auto;
+  padding: 0;
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
