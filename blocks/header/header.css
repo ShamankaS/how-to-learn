@@ -1,0 +1,11 @@
+.header {
+    position: relative;
+    align-items: center;
+    display: flex;
+    height: 100vh;
+    background-color: #f2f2f2;
+    min-height: 600px;
+    max-height: 756px;
+    overflow: hidden;
+    /* добавила  overflow, т.к. квадрат вылезал за пределы header при вертикальном разрешении более 632px (например, Nest Hub)*/
+}
