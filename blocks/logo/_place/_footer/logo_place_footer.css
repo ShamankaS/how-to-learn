@@ -1,4 +1,4 @@
 .logo_place_footer {
     margin: 0;
-    background-image: url(logo_place_footer.svg);
+    background-image: url('./logo_place_footer.svg');
 }
