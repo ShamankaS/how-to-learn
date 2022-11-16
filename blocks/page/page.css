@@ -1,0 +1,10 @@
+.page {
+    min-width: 1100px;
+    /*минимальная ширина страницы*/
+    max-width: 1600px;
+    /*ограничение по максимальной ширине*/
+    margin: 0 auto;
+    /*для экранов больше 1600px отцентрировали весь контент*/
+    font-family: 'Helvetica Neue', 'Arial', sans-serif;
+    color: #000;
+}
