@@ -67,5 +67,5 @@
 @import url("../blocks/resources/__logo-zone/resources__logo-zone.css");
 @import url("../blocks/resources/__logo/resources__logo.css");
 
-@import url("../blocks/table/__cell/place/table__cell_place_kaufman.css");
-@import url("../blocks/table/__cell/place/table__cell_place_digits.css");
+@import url("../blocks/table/__cell/_place/table__cell_place_kaufman.css");
+@import url("../blocks/table/__cell/_place/table__cell_place_digits.css");
