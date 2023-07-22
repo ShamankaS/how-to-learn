@@ -16,7 +16,3 @@ This website about talks about approaches to learning:
 ### Project
 
 Frontend (HTML, CSS)
-
-### TODO
-1. Аdding a feedback form;
-2. Updating web-site content (new videos, books).
