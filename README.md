@@ -1,18 +1,19 @@
-# How-to-learn
+# Научиться учиться
 
-How to learn is a web-page project developed as part of training on Yandex.Практикум.
-This website about talks about approaches to learning:
-* learning techniques;
-* motivational videos;
-* principles of learning;
-* and other informative information.
+Научиться учиться - это одностраничный сайт о подходах к обучению (методах и принципах обучения и др.).
+
+Данный проект был выполнен в рамках обучения по курсу "Веб-разработчик" в Я.Практикуме для отработки навыков неадаптивной вёрстки.
 
 ### Used technologies 
 
 * iframes;
-* interactive links on mouse hover;
-* animations.
+* интерактивные объекты (hover);
+* анимации через @keyframes.
 
 ### Project
 
-Frontend (HTML, CSS)
+Frontend (HTML5, CSS)
+
+### TODO
+
+Добавить адаптивную верстку.
