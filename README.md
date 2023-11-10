@@ -4,6 +4,8 @@
 
 Данный проект был выполнен в рамках обучения по курсу "Веб-разработчик" в Я.Практикуме для отработки навыков неадаптивной вёрстки.
 
+[Link on GitHub Pages](https://shamankas.github.io/how-to-learn/)
+
 ### Used technologies 
 
 * iframes;
